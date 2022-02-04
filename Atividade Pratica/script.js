@@ -1,3 +1,4 @@
+//Atividade não concluida
 let num1 = Number(prompt('Insira o primeiro valor:'))
 console.log(num1)
 let num2 = Number(prompt('Insira o Segundo valor:'))
